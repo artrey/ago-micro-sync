@@ -21,3 +21,6 @@ Thumbs.db*
 
 # Environment
 .env
+
+# SSL keys
+*.key
